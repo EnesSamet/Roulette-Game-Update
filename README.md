@@ -62,19 +62,13 @@ Design Patterns Used
 
 Known Issues 
 
-- You can't place a bet on zero  
-- There is no numbers on the roulette just colors   
+- You can't place a bet on zero    
 - There is no background on the main menu and the game scene   
-- The table is just a png there is no table model
 
 Future Improvements
 
 - Being able place a bet on zero   
-- Adding better texture to the roulette to add both numbers and color to it   
 - Adding a background for the main menu and the game scene  
-- Adding a table model with the table texture   
-- Making the UI look prettier (I am terrible at design but I think I can make it look better)   
-- Adding a save system (I added save systems for the 2 games I worked on, it is easy to me but didn't have time to implement into this game)   
 - Being able to switch between american and european roulette table \-Adding max bet limit
 
 ## Demo Video Link
